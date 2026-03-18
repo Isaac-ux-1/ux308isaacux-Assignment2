@@ -1,0 +1,762 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Restaurante Theme 3.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-11 21:36+0530\n"
+"PO-Revision-Date: 2025-08-11 21:36+0530\n"
+"Last-Translator: \n"
+"Language-Team: AyeCode Ltd <contact@ayecode.io>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;__ngettext:1,2;__ngettext_noop:1,2;_c;_e;_ex:1,2c;"
+"_n:1,2;_n_noop:1,2;_nc:4c,1,2;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;gettext;"
+"gettext_noop\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:10
+msgid "Well, this page does not exist. Maybe search something else?"
+msgstr ""
+
+#: archive.php:8 archive.php:9 archive.php:12 archive.php:16
+msgid "Archive for: "
+msgstr ""
+
+#: archive.php:11 archive.php:15
+msgid "Archive for "
+msgstr ""
+
+#: archive.php:22 category.php:12 search.php:12 tag.php:11
+msgid "   Page:\n"
+msgstr ""
+
+#: category.php:7
+msgid "You are viewing posts in: "
+msgstr ""
+
+#: category.php:8
+msgid ""
+"You are viewing posts in:\n"
+"        "
+msgstr ""
+
+#: comments.php:13
+#, php-format
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:20 comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:21 comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:22 comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:35
+msgid "https://wpgeodirectory.com/"
+msgstr ""
+
+#: footer.php:35
+msgid "Restaurante Theme"
+msgstr ""
+
+#: footer.php:35
+msgid "&copy;"
+msgstr ""
+
+#: framework/customizer-files/already-defined.php:14
+msgid "Home meta description"
+msgstr ""
+
+#: framework/customizer-files/customizer-general.php:7
+msgid "General Settings"
+msgstr ""
+
+#: framework/customizer-files/customizer-general.php:8
+msgid "General Settings for this theme."
+msgstr ""
+
+#: framework/customizer-files/customizer-general.php:53
+msgid "Upload a favicon"
+msgstr ""
+
+#: framework/customizer-files/customizer-general.php:66
+msgid "Upload a logo"
+msgstr ""
+
+#: framework/customizer-files/customizer-general.php:78
+msgid "Disable OpenGraph Tags"
+msgstr ""
+
+#: framework/customizer-files/customizer-general.php:82
+msgid "No"
+msgstr ""
+
+#: framework/customizer-files/customizer-general.php:83
+msgid "Yes"
+msgstr ""
+
+#: framework/customizer-files/customizer-general.php:91
+msgid "Add Twitter username with @ in front"
+msgstr ""
+
+#: framework/ketchup-functions.php:87
+#: framework/libs/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/ketchup-functions.php:88
+#: framework/libs/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/ketchup-functions.php:89
+#: framework/libs/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/ketchup-functions.php:90
+#: framework/libs/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/ketchup-functions.php:92
+#: framework/libs/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/ketchup-functions.php:97
+#: framework/libs/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/ketchup-functions.php:102
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/ketchup-functions.php:107
+#: framework/libs/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/ketchup-functions.php:112
+#: framework/libs/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/ketchup-functions.php:117
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/ketchup-functions.php:122
+#: framework/libs/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/ketchup-functions.php:127
+#: framework/libs/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/ketchup-functions.php:132
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/ketchup-functions.php:137
+#: framework/libs/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/ketchup-functions.php:142
+#: framework/libs/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/ketchup-functions.php:147
+#: framework/libs/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/ketchup-functions.php:151
+#: framework/libs/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/ketchup-functions.php:152
+#: framework/libs/class-tgm-plugin-activation.php:394
+#: framework/libs/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/ketchup-functions.php:153
+#: framework/libs/class-tgm-plugin-activation.php:395
+#: framework/libs/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: framework/ketchup-functions.php:154
+#: framework/libs/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/ketchup-functions.php:155
+#: framework/libs/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/ketchup-functions.php:156
+#: framework/libs/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/ketchup-functions.php:157
+#: framework/libs/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/ketchup-functions.php:265
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: framework/ketchup-functions.php:365
+msgid "&laquo; PREVIOUS"
+msgstr ""
+
+#: framework/ketchup-functions.php:366
+msgid "&raquo; NEXT"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:393
+#: framework/libs/class-tgm-plugin-activation.php:920
+#: framework/libs/class-tgm-plugin-activation.php:2626
+#: framework/libs/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:1027
+#: framework/libs/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:1214
+#: framework/libs/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3045
+msgid "The following plugins were activated successfully:"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3602
+#: framework/libs/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3602
+#: framework/libs/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/libs/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/templates/content-archive.php:14
+#: framework/templates/content-category.php:16
+#: framework/templates/content-search.php:16
+msgid "Read an article about "
+msgstr ""
+
+#: framework/templates/content-archive.php:24
+#: framework/templates/content-category.php:26
+#: framework/templates/content-search.php:26
+#: framework/templates/content-tag.php:23 index.php:39
+msgid "By "
+msgstr ""
+
+#: framework/templates/content-archive.php:28
+#: framework/templates/content-category.php:30
+#: framework/templates/content-post-template.php:27
+#: framework/templates/content-search.php:30
+#: framework/templates/content-tag.php:27 index.php:44
+msgid "No comments"
+msgstr ""
+
+#: framework/templates/content-archive.php:29
+#: framework/templates/content-category.php:31
+#: framework/templates/content-post-template.php:28
+#: framework/templates/content-search.php:31
+#: framework/templates/content-tag.php:28 index.php:45
+msgid "1 Comment"
+msgstr ""
+
+#: framework/templates/content-archive.php:29
+#: framework/templates/content-category.php:31
+#: framework/templates/content-post-template.php:28
+#: framework/templates/content-search.php:31
+#: framework/templates/content-tag.php:28 index.php:45
+msgid "% Comments"
+msgstr ""
+
+#: framework/templates/content-archive.php:63
+#: framework/templates/content-category.php:65
+#: framework/templates/content-search.php:65
+#: framework/templates/content-tag.php:62 index.php:82
+msgid "READ MORE"
+msgstr ""
+
+#: framework/templates/content-page-template.php:38
+#: framework/templates/content-post-template.php:53
+msgid "Pages:"
+msgstr ""
+
+#: framework/templates/content-post-template.php:14
+msgid "by "
+msgstr ""
+
+#: framework/templates/content-post-template.php:14
+msgid "<span itemprop=\"author\">"
+msgstr ""
+
+#: framework/templates/content-post-template.php:16
+msgid "</span>"
+msgstr ""
+
+#: functions.php:36
+msgid "Main Navigation"
+msgstr ""
+
+#: functions.php:37
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:141
+msgid "Add a menu"
+msgstr ""
+
+#: functions.php:253
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:255
+msgid ""
+"This is the main sidebar.It is in every page - post and\n"
+"        in the blog page. However you can override this setting from within "
+"each post."
+msgstr ""
+
+#: functions.php:266
+msgid "Footer Sidebar 1"
+msgstr ""
+
+#: functions.php:268
+msgid "This is the sidebar in the footer, on the left"
+msgstr ""
+
+#: functions.php:276
+msgid "Footer Sidebar 2"
+msgstr ""
+
+#: functions.php:278
+msgid "This is the sidebar in the footer, the second on the left"
+msgstr ""
+
+#: functions.php:310
+msgid "says:"
+msgstr ""
+
+#: functions.php:310
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">"
+msgstr ""
+
+#: functions.php:314
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:314
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:320
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:356
+msgid "Upgrade To Premium"
+msgstr ""
+
+#: functions.php:357
+msgid "Features Marked As Pro, Are Available In The Premium Version Only!!!"
+msgstr ""
+
+#: functions.php:358
+msgid "- OR CHECK -"
+msgstr ""
+
+#: functions.php:359
+msgid "Premium Demo"
+msgstr ""
+
+#: search.php:7 search.php:9
+#, php-format
+msgid "Search results for the term: %s"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: tag.php:7 tag.php:8
+msgid "You are viewing posts tagged with: "
+msgstr ""
